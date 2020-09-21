@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/study_project_2020/static/css/main.61def0a9.chunk.css",
+    "main.js": "/study_project_2020/static/js/main.1a3ed100.chunk.js",
+    "main.js.map": "/study_project_2020/static/js/main.1a3ed100.chunk.js.map",
+    "runtime-main.js": "/study_project_2020/static/js/runtime-main.a2a77c0b.js",
+    "runtime-main.js.map": "/study_project_2020/static/js/runtime-main.a2a77c0b.js.map",
+    "static/js/2.721c03ef.chunk.js": "/study_project_2020/static/js/2.721c03ef.chunk.js",
+    "static/js/2.721c03ef.chunk.js.map": "/study_project_2020/static/js/2.721c03ef.chunk.js.map",
+    "index.html": "/study_project_2020/index.html",
+    "precache-manifest.897af0bae2cf41a426a62c7d34995ad3.js": "/study_project_2020/precache-manifest.897af0bae2cf41a426a62c7d34995ad3.js",
+    "service-worker.js": "/study_project_2020/service-worker.js",
+    "static/css/main.61def0a9.chunk.css.map": "/study_project_2020/static/css/main.61def0a9.chunk.css.map",
+    "static/js/2.721c03ef.chunk.js.LICENSE.txt": "/study_project_2020/static/js/2.721c03ef.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a2a77c0b.js",
+    "static/js/2.721c03ef.chunk.js",
+    "static/css/main.61def0a9.chunk.css",
+    "static/js/main.1a3ed100.chunk.js"
+  ]
+}
