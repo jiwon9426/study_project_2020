@@ -32,7 +32,7 @@ function Movie({
             poster
         }
         alt = {
-            title 
+            title
         }
         title = {
             title
